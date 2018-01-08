@@ -1,0 +1,15 @@
+* {
+	box-sizing: border-box;
+}
+
+.quote {
+	text-decoration-line: underline;
+}
+
+i {
+	padding-left: 15px;
+}
+
+body {
+	background-color: #FFEFD8;
+}

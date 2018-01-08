@@ -2,14 +2,14 @@
 	box-sizing: border-box;
 }
 
-.quote {
-	text-decoration-line: underline;
-}
-
-i {
-	padding-left: 15px;
+section {
+	text-align: center;
 }
 
 body {
 	background-color: #FFEFD8;
+}
+
+li {
+	list-style-type: none;
 }
